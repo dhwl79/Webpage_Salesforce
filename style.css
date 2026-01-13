@@ -209,6 +209,13 @@ p{
 
 #heading h2{
     font-weight: 650;
+    margin-bottom: 50px;
+    text-align: center;
+}
+#heading h2:hover{
+    background-color: rgb(198, 225, 243);
+    padding: 10px;
+    border-radius: 10px;
 }
 #page1 p{
     /* height: 10%;
@@ -218,9 +225,4 @@ p{
     color: white;
     align-items: center;
     justify-content: center; */ 
-}
-#page2{
-    height: 88%;
-    width: 100%;
-    background-color: rgb(151, 151, 240);
 }
